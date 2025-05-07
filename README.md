@@ -93,5 +93,5 @@ SELECT 'level' AS text, dbo.IsPalindrome('level') AS isPalindrome
 UNION ALL 
 SELECT 'function' AS text, dbo.IsPalindrome('function') AS isPalindrome;
 ```
-Result:
+Result:  
 ![image](https://github.com/user-attachments/assets/e8abf45a-2114-4876-9c7a-f444311092a8)
